@@ -26,7 +26,7 @@ class rectangle : shape {
   void area() {
     cout<<"Enter the length and breadth of the rectangle : ";
     cin>>l>>b;
-    cout<<"The area of the rectangle is : " << l*b <<" sqaure units."<<endl;
+    cout<<"The area of the rectangle is : " << l*b <<" square units."<<endl;
   }
 };
 
